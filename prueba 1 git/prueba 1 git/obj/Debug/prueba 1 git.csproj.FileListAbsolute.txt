@@ -1,0 +1,8 @@
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\bin\Debug\prueba 1 git.exe.config
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\bin\Debug\prueba 1 git.exe
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\bin\Debug\prueba 1 git.pdb
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\obj\Debug\prueba 1 git.csproj.AssemblyReference.cache
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\obj\Debug\prueba 1 git.csproj.SuggestedBindingRedirects.cache
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\obj\Debug\prueba 1 git.csproj.CoreCompileInputs.cache
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\obj\Debug\prueba 1 git.exe
+C:\Users\LN\Prog-3--Prueba-repositorio1-6-08-24\prueba 1 git\prueba 1 git\obj\Debug\prueba 1 git.pdb
