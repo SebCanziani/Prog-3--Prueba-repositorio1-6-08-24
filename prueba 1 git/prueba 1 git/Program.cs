@@ -13,7 +13,7 @@ namespace prueba_1_git
            
   
 
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("chau Mundo");
 
             Console.ReadKey();
 
